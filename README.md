@@ -188,7 +188,6 @@ AI Email Assistant là ứng dụng web sử dụng **kiến trúc Multi-Agent**
 - [ ] **Google Gemini API key** ready
 - [ ] **MongoDB** installed (hoặc MongoDB Atlas)
 
-### Bước 1: Clone Repository
 
 ### Bước 1: Clone Repository
 
