@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "name": "Work",
+      "keywords": ["meeting", "project", "deadline", "report", "task", "presentation", "schedule", "team", "client", "proposal"],
+      "description": "Work-related emails, projects, meetings"
+    },
+    {
+      "name": "Personal",
+      "keywords": ["family", "friend", "birthday", "vacation", "dinner", "party", "weekend", "hello", "hi"],
+      "description": "Personal correspondence"
+    },
+    {
+      "name": "Spam",
+      "keywords": ["unsubscribe", "click here", "limited time", "act now", "free", "winner", "prize", "casino", "viagra"],
+      "description": "Spam, promotional, unwanted emails"
+    },
+    {
+      "name": "Newsletter",
+      "keywords": ["newsletter", "subscription", "weekly update", "digest", "summary", "roundup"],
+      "description": "Newsletters and subscriptions"
+    },
+    {
+      "name": "Announcement",
+      "keywords": ["announcement", "update", "notice", "alert", "reminder", "notification"],
+      "description": "Important announcements and notifications"
+    },
+    {
+      "name": "Support",
+      "keywords": ["support", "help", "ticket", "issue", "problem", "question", "inquiry"],
+      "description": "Customer support and help requests"
+    },
+    {
+      "name": "Financial",
+      "keywords": ["invoice", "payment", "receipt", "bill", "transaction", "bank", "account", "credit"],
+      "description": "Financial and billing related emails"
+    }
+  ]
+}
